@@ -11,7 +11,7 @@ I’m passionate about transforming complex data into actionable insights that d
 - **Data Visualization & Storytelling:** Crafting compelling narratives with Tableau.  
 - **Strategic Decision Making:** Applying econometrics and statistical analysis for data-driven solutions.  
 - **Project Management:** Driving projects with strategic alignment and stakeholder collaboration.
-- 
+  
 ---
 
 ### 💼 **Experience & Background**  
