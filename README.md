@@ -14,13 +14,6 @@ I’m passionate about transforming complex data into actionable insights that d
   
 ---
 
-### 💼 **Experience & Background**  
-- **Business Economics & Data Analytics:** Bridging numbers with narratives.  
-- **FMCG Food Industry:** Managed projects ensuring operational efficiency and strategic alignment.  
-- **Project Management:** Coordinated cross-functional teams to deliver impactful solutions.  
-
----
-
 ### 🛠️ **Tech Stack**  
 - **Programming & Data Analysis:** Python, SQL, Excel  
 - **Data Visualization:** Tableau, Matplotlib, Seaborn  
